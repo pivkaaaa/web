@@ -1,0 +1,19 @@
+<svg id="Component_30_4" data-name="Component 30 – 4" xmlns="http://www.w3.org/2000/svg" width="1460" height="760" viewBox="0 0 1460 760">
+  <g id="Ellipse_14" data-name="Ellipse 14" transform="translate(698)" stroke="#000" stroke-width="1">
+    <ellipse cx="381" cy="380" rx="381" ry="380" stroke="none"/>
+    <ellipse cx="381" cy="380" rx="380.5" ry="379.5" fill="none"/>
+  </g>
+  <circle id="Ellipse_9" data-name="Ellipse 9" cx="105" cy="105" r="105" transform="translate(0 275)"/>
+  <circle id="Ellipse_13" data-name="Ellipse 13" cx="105" cy="105" r="105" transform="translate(1037 275)" fill="#fff"/>
+  <circle id="Ellipse_10" data-name="Ellipse 10" cx="122" cy="122" r="122" transform="translate(210 258)"/>
+  <circle id="Ellipse_11" data-name="Ellipse 11" cx="122" cy="122" r="122" transform="translate(454 258)"/>
+  <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="169.5" cy="169" rx="169.5" ry="169" transform="translate(698 211)" fill="#fff"/>
+  <text id="Analysis" transform="translate(105 387)" fill="#fff" font-size="18" font-family="Eina03-Regular" letter-spacing="0.05em"><tspan x="-38" y="0">Analysis</tspan></text>
+  <text id="Testing" transform="translate(1110 387)" font-size="18" font-family="Eina03-Regular" letter-spacing="0.05em"><tspan x="0" y="0">Testing</tspan></text>
+  <text id="Branding_Identity" data-name="Branding
+Identity" transform="translate(1283 372)" fill="#fff" font-size="18" font-family="Eina03-Regular" letter-spacing="0.05em"><tspan x="0" y="0">Branding</tspan><tspan x="0" y="30">Identity</tspan></text>
+  <text id="Define" transform="translate(332 387)" fill="#fff" font-size="18" font-family="Eina03-Regular" letter-spacing="0.05em"><tspan x="-30" y="0">Define</tspan></text>
+  <text id="Ideation_Creativity" data-name="Ideation
+&amp; Creativity" transform="translate(576 375)" fill="#fff" font-size="18" font-family="Eina03-Regular" letter-spacing="0.05em"><tspan x="-38" y="0">Ideation</tspan><tspan x="-53" y="25">&amp; Creativity</tspan></text>
+  <text id="Mockups" transform="translate(821 387)" font-size="18" font-family="Eina03-Regular" letter-spacing="0.05em"><tspan x="0" y="0">Mockups</tspan></text>
+</svg>
